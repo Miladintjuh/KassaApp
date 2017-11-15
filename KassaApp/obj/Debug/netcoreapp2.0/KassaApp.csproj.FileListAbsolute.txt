@@ -1,0 +1,11 @@
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\bin\Debug\netcoreapp2.0\KassaApp.deps.json
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\bin\Debug\netcoreapp2.0\KassaApp.runtimeconfig.json
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\bin\Debug\netcoreapp2.0\KassaApp.runtimeconfig.dev.json
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\bin\Debug\netcoreapp2.0\KassaApp.dll
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\bin\Debug\netcoreapp2.0\KassaApp.pdb
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\obj\Debug\netcoreapp2.0\KassaApp.csprojResolveAssemblyReference.cache
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\obj\Debug\netcoreapp2.0\KassaApp.csproj.CoreCompileInputs.cache
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\obj\Debug\netcoreapp2.0\KassaApp.AssemblyInfoInputs.cache
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\obj\Debug\netcoreapp2.0\KassaApp.AssemblyInfo.cs
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\obj\Debug\netcoreapp2.0\KassaApp.dll
+d:\users\rebano\documents\visual studio 2017\Projects\KassaApp\KassaApp\obj\Debug\netcoreapp2.0\KassaApp.pdb
